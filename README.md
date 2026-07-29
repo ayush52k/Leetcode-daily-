@@ -12,6 +12,7 @@ daily dose of codes
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ayush52k/Leetcode-daily-/tree/master/0001-two-sum) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ayush52k/Leetcode-daily-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -25,8 +26,18 @@ daily dose of codes
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ayush52k/Leetcode-daily-/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ayush52k/Leetcode-daily-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Counting Sort
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ayush52k/Leetcode-daily-/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ayush52k/Leetcode-daily-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Math
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ayush52k/Leetcode-daily-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ayush52k/Leetcode-daily-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
