@@ -7,6 +7,7 @@ daily dose of codes
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ayush52k/Leetcode-daily-/tree/master/0001-two-sum) |
+| [0486-predict-the-winner](https://github.com/ayush52k/Leetcode-daily-/tree/master/0486-predict-the-winner) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ayush52k/Leetcode-daily-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
@@ -40,6 +41,7 @@ daily dose of codes
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/ayush52k/Leetcode-daily-/tree/master/0486-predict-the-winner) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ayush52k/Leetcode-daily-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ayush52k/Leetcode-daily-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Combinatorics
@@ -51,4 +53,16 @@ daily dose of codes
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ayush52k/Leetcode-daily-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayush52k/Leetcode-daily-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/ayush52k/Leetcode-daily-/tree/master/0486-predict-the-winner) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/ayush52k/Leetcode-daily-/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/ayush52k/Leetcode-daily-/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
