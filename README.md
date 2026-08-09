@@ -49,6 +49,7 @@ daily dose of codes
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ayush52k/Leetcode-daily-/tree/master/0002-add-two-numbers) |
 | [0486-predict-the-winner](https://github.com/ayush52k/Leetcode-daily-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ayush52k/Leetcode-daily-/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/ayush52k/Leetcode-daily-/tree/master/1140-stone-game-ii) |
@@ -79,6 +80,7 @@ daily dose of codes
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ayush52k/Leetcode-daily-/tree/master/0002-add-two-numbers) |
 | [0486-predict-the-winner](https://github.com/ayush52k/Leetcode-daily-/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
@@ -129,4 +131,8 @@ daily dose of codes
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/ayush52k/Leetcode-daily-/tree/master/1140-stone-game-ii) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ayush52k/Leetcode-daily-/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
