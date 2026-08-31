@@ -183,6 +183,7 @@ daily dose of codes
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ayush52k/Leetcode-daily-/tree/master/0002-add-two-numbers) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ayush52k/Leetcode-daily-/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Nim Game
 |  |
 | ------- |
