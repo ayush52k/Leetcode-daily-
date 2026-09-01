@@ -17,6 +17,7 @@ daily dose of codes
 | [2029-stone-game-ix](https://github.com/ayush52k/Leetcode-daily-/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ayush52k/Leetcode-daily-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ayush52k/Leetcode-daily-/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ayush52k/Leetcode-daily-/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayush52k/Leetcode-daily-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ayush52k/Leetcode-daily-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ayush52k/Leetcode-daily-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -44,6 +45,7 @@ daily dose of codes
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ayush52k/Leetcode-daily-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ayush52k/Leetcode-daily-/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ayush52k/Leetcode-daily-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayush52k/Leetcode-daily-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ayush52k/Leetcode-daily-/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -225,4 +227,8 @@ daily dose of codes
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ayush52k/Leetcode-daily-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ayush52k/Leetcode-daily-/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
