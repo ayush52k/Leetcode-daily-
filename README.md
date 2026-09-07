@@ -61,6 +61,7 @@ daily dose of codes
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/ayush52k/Leetcode-daily-/tree/master/0115-distinct-subsequences) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ayush52k/Leetcode-daily-/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ayush52k/Leetcode-daily-/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ayush52k/Leetcode-daily-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -117,6 +118,7 @@ daily dose of codes
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/ayush52k/Leetcode-daily-/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/ayush52k/Leetcode-daily-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ayush52k/Leetcode-daily-/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/ayush52k/Leetcode-daily-/tree/master/1140-stone-game-ii) |
