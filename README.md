@@ -98,6 +98,7 @@ daily dose of codes
 | [3345-smallest-divisible-digit-product-i](https://github.com/ayush52k/Leetcode-daily-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ayush52k/Leetcode-daily-/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ayush52k/Leetcode-daily-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3871-count-commas-in-range-ii](https://github.com/ayush52k/Leetcode-daily-/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ayush52k/Leetcode-daily-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ayush52k/Leetcode-daily-/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Combinatorics
