@@ -8,6 +8,7 @@ daily dose of codes
 | ------- |
 | [0001-two-sum](https://github.com/ayush52k/Leetcode-daily-/tree/master/0001-two-sum) |
 | [0486-predict-the-winner](https://github.com/ayush52k/Leetcode-daily-/tree/master/0486-predict-the-winner) |
+| [0835-image-overlap](https://github.com/ayush52k/Leetcode-daily-/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/ayush52k/Leetcode-daily-/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/ayush52k/Leetcode-daily-/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/ayush52k/Leetcode-daily-/tree/master/1386-cinema-seat-allocation) |
@@ -242,6 +243,7 @@ daily dose of codes
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/ayush52k/Leetcode-daily-/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ayush52k/Leetcode-daily-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
 |  |
