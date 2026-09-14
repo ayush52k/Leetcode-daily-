@@ -90,6 +90,7 @@ daily dose of codes
 | ------- |
 | [0002-add-two-numbers](https://github.com/ayush52k/Leetcode-daily-/tree/master/0002-add-two-numbers) |
 | [0486-predict-the-winner](https://github.com/ayush52k/Leetcode-daily-/tree/master/0486-predict-the-winner) |
+| [0836-rectangle-overlap](https://github.com/ayush52k/Leetcode-daily-/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/ayush52k/Leetcode-daily-/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/ayush52k/Leetcode-daily-/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ayush52k/Leetcode-daily-/tree/master/1406-stone-game-iii) |
@@ -253,4 +254,8 @@ daily dose of codes
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ayush52k/Leetcode-daily-/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/ayush52k/Leetcode-daily-/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
