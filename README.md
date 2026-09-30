@@ -78,6 +78,7 @@ daily dose of codes
 | [0115-distinct-subsequences](https://github.com/ayush52k/Leetcode-daily-/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/ayush52k/Leetcode-daily-/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/ayush52k/Leetcode-daily-/tree/master/1096-brace-expansion-ii) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ayush52k/Leetcode-daily-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ayush52k/Leetcode-daily-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ayush52k/Leetcode-daily-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ayush52k/Leetcode-daily-/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -299,4 +300,9 @@ daily dose of codes
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/ayush52k/Leetcode-daily-/tree/master/1096-brace-expansion-ii) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ayush52k/Leetcode-daily-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ayush52k/Leetcode-daily-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 <!---LeetCode Topics End-->
