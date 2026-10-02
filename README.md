@@ -76,6 +76,7 @@ daily dose of codes
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayush52k/Leetcode-daily-/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/ayush52k/Leetcode-daily-/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/ayush52k/Leetcode-daily-/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/ayush52k/Leetcode-daily-/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/ayush52k/Leetcode-daily-/tree/master/1096-brace-expansion-ii) |
@@ -148,6 +149,7 @@ daily dose of codes
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ayush52k/Leetcode-daily-/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/ayush52k/Leetcode-daily-/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/ayush52k/Leetcode-daily-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ayush52k/Leetcode-daily-/tree/master/0877-stone-game) |
@@ -214,6 +216,7 @@ daily dose of codes
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ayush52k/Leetcode-daily-/tree/master/0022-generate-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/ayush52k/Leetcode-daily-/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ayush52k/Leetcode-daily-/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
@@ -307,5 +310,6 @@ daily dose of codes
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayush52k/Leetcode-daily-/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/ayush52k/Leetcode-daily-/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ayush52k/Leetcode-daily-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 <!---LeetCode Topics End-->
