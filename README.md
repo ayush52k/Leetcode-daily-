@@ -81,6 +81,7 @@ daily dose of codes
 | [0115-distinct-subsequences](https://github.com/ayush52k/Leetcode-daily-/tree/master/0115-distinct-subsequences) |
 | [0678-valid-parenthesis-string](https://github.com/ayush52k/Leetcode-daily-/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/ayush52k/Leetcode-daily-/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayush52k/Leetcode-daily-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/ayush52k/Leetcode-daily-/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/ayush52k/Leetcode-daily-/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ayush52k/Leetcode-daily-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -140,6 +141,7 @@ daily dose of codes
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/ayush52k/Leetcode-daily-/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayush52k/Leetcode-daily-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/ayush52k/Leetcode-daily-/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ayush52k/Leetcode-daily-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2029-stone-game-ix](https://github.com/ayush52k/Leetcode-daily-/tree/master/2029-stone-game-ix) |
@@ -313,6 +315,7 @@ daily dose of codes
 | [0032-longest-valid-parentheses](https://github.com/ayush52k/Leetcode-daily-/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/ayush52k/Leetcode-daily-/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/ayush52k/Leetcode-daily-/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayush52k/Leetcode-daily-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1096-brace-expansion-ii](https://github.com/ayush52k/Leetcode-daily-/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ayush52k/Leetcode-daily-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Bracket Sequences
@@ -323,5 +326,6 @@ daily dose of codes
 | [0032-longest-valid-parentheses](https://github.com/ayush52k/Leetcode-daily-/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/ayush52k/Leetcode-daily-/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/ayush52k/Leetcode-daily-/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayush52k/Leetcode-daily-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ayush52k/Leetcode-daily-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 <!---LeetCode Topics End-->
